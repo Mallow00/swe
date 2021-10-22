@@ -1,0 +1,7 @@
+Creare un'app che si colleghi all'ups (un emulatore), o con etheret o bluetooth, allo scopo di migliorare 
+ed implementare efficaci sistemi di visualizzazione e controllo del sistema.
+
+Il nostro supporto:
+Materiale
+Meeting in azienda o da remoto
+3 professionisti disponibili

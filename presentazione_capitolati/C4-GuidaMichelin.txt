@@ -1,0 +1,29 @@
+Prendere storie e post su insta e tiktok.
+Analizzarli e in base alle informazioni che estrapoliamo creare una classifica.
+
+Incrociare i nostri risultati con quelli che troviamo su internet, in modo da vedere se ci sono dei match.
+La parte difficile è creare un algoritmo che riesca a pesare le recensioni delle persone
+
+Ipotesi di architettura cloud a supporto
+Tik tiktok \
+            \ 
+              Lambda chain ---> Algoritmi di manipolazione attraverso dei servizi amazon
+            /                   AWS Trascribe
+Instagram  /                    AWS Lex o pagemaker                   
+
+Punti di attenzione
+- Studiare API e limiti relativi ai servizi previsti da tiktok e Instagram
+- Identificare criteri per pesare correttamente i feeback indicati nelle varie storie e post
+- Valutare limiti di interrogazione
+- altre cose
+
+Metodo di lavoro
+Discover    >>>>   Experiment    >>>>   Delivery
+Studiare API       Sviluppo a Sprint    .....
+
+Supporto garantito:
+- Formazione
+- Review techinche
+- Crediti cloud
+- Spazi in ambienti divertenti
+

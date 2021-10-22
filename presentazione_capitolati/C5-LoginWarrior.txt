@@ -1,0 +1,23 @@
+Monitoraggio delle applicazioni
+1. Tempo dall'ultima login
+2. Indirizzo ip
+3. Cookie
+4. Fingerprint del dispositivo
+----------------------------------------------
+La prima fase dei dati viene nominata Esploratory Data Analysis, cioè
+si cerca di distinguere quali possono essere i fatti rilevanti o le strutture
+che aiutano a distinguerli. Si usano metodi grafici
+
+Dalla fase di EDA si passa alla creazione di un modello che spiega i fenomeni
+spesso l'EDA porta ad una "feature engimeering", cioè la manipolazione di dati grezzi.
+
+Ci forniscono i dati di login di 18 mesi. Vogliono che creiamo delle visualizzazioni
+utili a scoprire potenziali attacchi.
+
+CONSIGLI SUI SOFTWARE:
+- D3.js 
+- Force directed graph
+- Diagramma di Sankey
+
+E' un problema di Anomaly Detection in cui è richiesta solo la fase esplorativa
+

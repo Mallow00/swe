@@ -1,0 +1,12 @@
+Gli strumenti aziendali:
+- Applicazione per consutivare le attività
+- Suite di collaborazione
+- Strumenti di project management
+- Repository Documentale
+
+Obbiettivi:
+Creare un chatbot per aiutare le persone a interagire con la realtà aziendale.
+
+Cosa ci mettono a disposizione:
+- API rest (definite mediante file swagger)
+- Parte di sicurezza importante, perchè deve interagire con i dati degli utenti.

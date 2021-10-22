@@ -1,0 +1,5 @@
+Riuscire a predire il fatto che il mio sistema vada fuori controllo, controllo della variabilità.
+Db orientato alle serie storiche.
+TSDB: Un database di serie temporali è un sistema software ottimizzato per l'archiviazione e la gestione di serie temporali attraverso coppie associate di tempo e valore. 
+      In alcuni campi, le serie temporali possono essere chiamate profili, curve, tracce o tendenze.
+    

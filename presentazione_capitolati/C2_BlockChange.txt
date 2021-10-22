@@ -1,0 +1,7 @@
+La blockchain ci mette a disposizione dei meccanismi (Smart Contract) che possono aiutarci nel garantire cliente e venditore.
+Tecnologie che ci propongono:
+- Ethereum con Solidity
+- Angular per il front-end
+- Postgresql - per db
+- docker
+- kotlin o flutter
